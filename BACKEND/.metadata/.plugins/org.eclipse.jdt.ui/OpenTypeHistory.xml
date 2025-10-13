@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-    <typeInfo handle="=1-Products_API/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.service{ProductService.java[ProductService" modifiers="513" timestamp="1755765929067"/>
-    <typeInfo handle="=2-Customers_API/C:\/Users\/Admin\/.m2\/repository\/org\/springframework\/security\/spring-security-core\/6.5.2\/spring-security-core-6.5.2.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.security=/=/maven.artifactId=/spring-security-core=/=/maven.version=/6.5.2=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.security.core.userdetails(UserDetailsService.class[UserDetailsService" modifiers="1537" timestamp="1755781929003"/>
-    <typeInfo handle="=2-Customers_API/C:\/Users\/Admin\/.m2\/repository\/org\/springframework\/security\/spring-security-core\/6.5.2\/spring-security-core-6.5.2.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.security=/=/maven.artifactId=/spring-security-core=/=/maven.version=/6.5.2=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.security.provisioning(UserDetailsManager.class[UserDetailsManager" modifiers="1537" timestamp="1755781929003"/>
-    <typeInfo handle="=3-Orders_API/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.service{RazorPayService.java[RazorPayService" modifiers="513" timestamp="1756057704360"/>
-    <typeInfo handle="=3-Orders_API/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.service{OrderService.java[OrderService" modifiers="513" timestamp="1756112184965"/>
-</typeInfoHistroy>

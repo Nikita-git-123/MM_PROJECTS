@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy package &apos;com.example.entities&apos; to &apos;3-Orders_API/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;1-Products_API&apos;&#x0D;&#x0A;- Destination element: &apos;3-Orders_API/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;1-Products_API/src/main/java/com.example.entities&apos;" description="Copy package" destination="=3-Orders_API/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.entities" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1756053389465" version="1.0"/>
-</session>
